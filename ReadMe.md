@@ -12,3 +12,6 @@ i'm honestly not too sure lol
 
 but i used netbeans in the creation of this project, more 
 specifically netbeans 8.2
+
+just a heads up, i'm probably not going to do anything with this
+repository since it's creation
